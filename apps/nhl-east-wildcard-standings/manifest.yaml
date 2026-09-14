@@ -1,0 +1,55 @@
+gdn: 1
+id: nhl-east-wildcard-standings
+version: 0.1.0
+name: "NHL East Wildcard Standings"
+author: "your-name"
+description: A new Glance app.
+category: Sports
+entry: app.star
+width: 192
+height: 32
+refresh: 300
+pages: [eastern_conference, metro_title, metro_standings, atlantic_title, atlantic_standings, east_wildcard, east_wc, east_hunt]
+
+assets:
+  - eastern_conference_title_glance.png
+  - panthers_glance_tiny.png
+  - maple_leafs_glance_tiny.png
+  - islanders_glance_tiny.png
+  - rangers_glance_tiny.png
+  - devils_glance_tiny.png
+  - bluejackets_glance_tiny.png
+  - redwings_glance_tiny.png
+  - senators_glance_tiny.png
+  - bruins_glance_tiny.png
+  - capitals_glance_tiny.png
+  - sabres_glance_tiny.png
+  - lightning_glance_tiny.png
+  - canadiens_glance_tiny.png
+  - atlantic_division_no_grey_line.png
+  - atlantic_division_fixed_v2.png
+  - atlantic_division.png
+  - atlantic_division_red_white_match-2.png
+  - atlantic_division_red_white_match.png
+  - atlantic_division_exact_match.png
+  - atlantic_division_exact_style.png
+  - flyers_glance_tiny.png
+  - penguins_glance_tiny.png
+  - hurricanes_glance_tiny.png
+  - in_the_hunt_centered.png
+  - in_the_hunt_mask_exact_lettering.png
+  - metropolitan_division_exact_style.png
+  - metropolitan_division_glance_crisp.png
+  - metropolitan_division_glance.png
+  - nhl_glance.png
+  - in_the_hunt_red_glance.png
+  - east_wildcard_red_glance.png
+  - east_wildcard_broadcast_black-2.png
+  - east_wildcard_broadcast_black.png
+  - east_wildcard_broadcast.png
+  - east_wildcard_text_clean.png
+  - east_wildcard_text_glance.png
+  - eastern_conference_glance.png
+  - in_the_hunt_mask_32px.png
+  - in_the_hunt_puck.png
+
