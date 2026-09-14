@@ -1,0 +1,35 @@
+gdn: 1
+id: nhl-west-wildcard-standings
+version: 0.1.0
+name: "NHL West Wildcard Standings"
+author: "your-name"
+description: A new Glance app.
+category: Sports
+entry: app.star
+width: 192
+height: 32
+refresh: 300
+pages: [western_conference, pacific_title, pacific_standings, central_title, central_standings, west_wildcard, west_wc, west_hunt]
+
+assets:
+  - wild_glance_tiny.png
+  - stars_glance_tiny.png
+  - sharks_glance_tiny.png
+  - predators_glance_tiny.png
+  - oilers_glance_tiny.png
+  - mammoth_glance_tiny.png
+  - kraken_glance_tiny.png
+  - kings_glance_tiny.png
+  - jets_glance_tiny.png
+  - golden_knights_glance_tiny.png
+  - flames_glance_tiny.png
+  - ducks_glance_tiny-2.png
+  - canucks_glance_tiny.png
+  - blues_glance_tiny.png
+  - blackhawks_glance_tiny.png
+  - avalanche_glance_tiny.png
+  - ducks_glance_tiny.png
+  - west_wildcard_blue_glance.png
+  - central_division_glance.png
+  - pacific_division_glance.png
+  - western_conference_title_glance.png
